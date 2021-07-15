@@ -1,2 +1,5 @@
-# LeetCode
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub).
+# Leetcode
+
+| # | Title | Solution | Runtime |
+|---| ----- | -------- | ------- |
+|7|[ Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](./solutions/7.%20Reverse%20Integer.java)|1 ms|
